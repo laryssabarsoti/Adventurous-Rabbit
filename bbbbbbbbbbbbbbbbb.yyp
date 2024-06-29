@@ -30,7 +30,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
-    {"id":{"name":"RoomMoises","path":"rooms/RoomMoises/RoomMoises.yy",},},
+    {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"id":{"name":"Scenoura","path":"sprites/Scenoura/Scenoura.yy",},},
     {"id":{"name":"Scoelho","path":"sprites/Scoelho/Scoelho.yy",},},
     {"id":{"name":"Scoelhocorrendo","path":"sprites/Scoelhocorrendo/Scoelhocorrendo.yy",},},
@@ -44,7 +44,7 @@
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
-    {"roomId":{"name":"RoomMoises","path":"rooms/RoomMoises/RoomMoises.yy",},},
+    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
