@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Cenas","order":1,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":2,"path":"folders/Objetos.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"cenoura","order":1,"path":"objects/cenoura/cenoura.yy",},
+    {"name":"raposa","order":2,"path":"objects/raposa/raposa.yy",},
+    {"name":"raposamev","order":3,"path":"objects/raposamev/raposamev.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
+    {"name":"Room4","order":3,"path":"rooms/Room4/Room4.yy",},
+    {"name":"RoomMoises","order":4,"path":"rooms/RoomMoises/RoomMoises.yy",},
+    {"name":"Scoelho","order":1,"path":"sprites/Scoelho/Scoelho.yy",},
+    {"name":"Scoelhocorrendo","order":3,"path":"sprites/Scoelhocorrendo/Scoelhocorrendo.yy",},
+    {"name":"Sfundo","order":4,"path":"sprites/Sfundo/Sfundo.yy",},
+    {"name":"Sraposa","order":2,"path":"sprites/Sraposa/Sraposa.yy",},
+  ],
+}
